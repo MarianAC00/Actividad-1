@@ -51,6 +51,7 @@ Dos lineas onduladas
 Se hace añadiendo los num. :
 
 Una lista enumerada
+
 1. Patatas
 2. Leche
 3. Huevos
@@ -96,3 +97,7 @@ Se visualiza asi:
 [Atom](https://atom.io/)
 
 **Imagenes**
+
+Se hace añadiendo ![alt text] y Parentesis
+
+![alt text](C:\Users\alumnat\Desktop\whatsapp-logo-3)
